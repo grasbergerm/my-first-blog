@@ -10,7 +10,9 @@
     font-size: 36pt;
     text-decoration: none;
 }
-
+.row{
+    width: 100%;
+}
 .content {
     margin-left: 40px;
 }
@@ -21,7 +23,7 @@ h1, h2, h3, h4 {
 
 .date {
     position: absolute;
-    right: -60%;
+    right: -40%;
     color: #828282;
 }
 
